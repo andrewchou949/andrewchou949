@@ -15,9 +15,13 @@
 
 ## Connect with Me
 [LinkedIn][2]
+
 [Github][3]
+
 [Personal Site][4]
+
 [Gmail][5]
+
 
 <!-- Links to your social media accounts -->
 
