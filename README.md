@@ -18,9 +18,8 @@
 
 [Github][3]
 
-[Personal Site][4]
+[My Personal Site (Contains my Email)][4]
 
-[Gmail][5]
 
 
 <!-- Links to your social media accounts -->
@@ -28,7 +27,6 @@
 [2]: https://www.linkedin.com/in/kimhour-chou-a2a13a19a/
 [3]: https://github.com/andrewchou949
 [4]: https://andrewkhchou.com
-[5]: andrewchou949@gmail.com
 
 
 <!-- You can add or remove sections according to your needs -->
