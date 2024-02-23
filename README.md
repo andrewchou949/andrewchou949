@@ -10,8 +10,8 @@
 - ⚡ Fun fact: I came from a country where Angkor Wat resides in, Guess where I'm from! 😏
 
 ## Skills
-- Language: Python, C++, Java, SQL, Dart, Technical Writing
-- Tools: FlutterFlow, Firebase, AWS Route 53, Microsoft Tools, Linux
+- Language: Python, C++, Java, SQL, Dart, Technical Writing, Typescript
+- Tools: FlutterFlow, Firebase, AWS Route 53, Google Cloud, Flask, Microsoft Tools, Linux
 
 ## Connect with Me
 [LinkedIn][2]
