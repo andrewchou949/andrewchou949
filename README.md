@@ -24,7 +24,7 @@
 
 <!-- Links to your social media accounts -->
 
-[2]: https://www.linkedin.com/in/kimhour-chou-a2a13a19a/
+[2]: https://www.linkedin.com/in/andrewkhchou/
 [3]: https://github.com/andrewchou949
 [4]: https://andrewkhchou.com
 
