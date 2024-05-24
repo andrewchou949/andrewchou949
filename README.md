@@ -12,6 +12,7 @@
 ## Skills
 - Language: Python, Java, C++, SQL, Dart, Technical Writing, Typescript
 - Technologies: FlutterFlow, Firebase, AWS Route 53, Google Cloud, Flask, Microsoft Tools, React, Linux, Github Actions, RESTful API, Openai-Whisper, Docker, ChatGPT3.5-Turbo, React Spring Parallax
+- Focuses: Backend, Data Science
 
 ## Connect with Me
 [LinkedIn][2]
@@ -20,6 +21,8 @@
 
 [My Personal Site (Contains my Email)][4]
 
+[ORCID Link][5]
+
 
 
 <!-- Links to your social media accounts -->
@@ -27,6 +30,7 @@
 [2]: https://www.linkedin.com/in/andrewkhchou/
 [3]: https://github.com/andrewchou949
 [4]: https://andrewkhchou.com
+[5]: https://orcid.org/0009-0008-2413-3138
 
 
 <!-- You can add or remove sections according to your needs -->
