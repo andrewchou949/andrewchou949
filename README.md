@@ -10,8 +10,9 @@
 - ⚡ Fun fact: I came from a country where Angkor Wat resides in, Guess where I'm from! 😏
 
 ## Skills
-- Language: Python, Java, C++, SQL, Dart, Technical Writing, Typescript
-- Technologies: FlutterFlow, Firebase, AWS Route 53, Google Cloud, Flask, Microsoft Tools, React, Linux, Github Actions, RESTful API, Openai-Whisper, Docker, ChatGPT3.5-Turbo, React Spring Parallax
+- Language: Python  C++  Java  TypeScript  SQL  HTML  CSS
+- Technologies: Flask  React  AWS (Route 53)  RESTful API  Django  Machine Learning  GitHub Actions  Firebase  Git Version Control (GitHub) 
+Linux  Google Cloud CLI  Tailwind CSS  Flutter  Docker  Openai-Whisper  ChatGPT3.5-Turbo  React Spring Parallax
 - Focuses: Backend, Data Science
 
 ## Connect with Me
