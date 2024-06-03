@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on any backend/frontend data projects
 - 🤔 I’m looking for help with employment opportunities. Feel free to reach out to me for any opportunities 🤝
 - 💬 Ask me about any of my projects/repositories, I'm more than happy to ellaborate more on them 😁
-- 📫 How to reach me: LinkedIn (Check out my links below)
+- 📫 How to reach me: Preferrably via Email below but LinkedIn is fine too 🤗
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I came from a country where Angkor Wat resides in, Guess where I'm from! 😏
 
