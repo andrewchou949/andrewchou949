@@ -14,7 +14,7 @@
 - Technologies: Flask, React, AWS (Route 53), RESTful API, Django, Machine Learning, GitHub Actions, Firebase, Git Version Control (GitHub),
 Linux, Google Cloud CLI, Tailwind CSS, Flutter, Docker, Openai-Whisper, ChatGPT3.5-Turbo, React Spring Parallax
 - Focuses: Backend, Data Science
-- Soft Skills: Problem Solving, Communication, Teamwork, Adaptability, Time/Project Management, Leadership
+- Soft Skills: Problem Solving, Communication, Teamwork, Adaptability, Time and Project Management
 
 ## Connect with Me
 [LinkedIn][2]
