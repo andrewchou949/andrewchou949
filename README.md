@@ -7,7 +7,7 @@
 - 💬 Ask me about: any of my projects/repositories, I'm more than happy to ellaborate more on them 😁
 - 📫 How to reach me: Preferrably via Email below but LinkedIn is fine too 🤗
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I came from a country where Angkor Wat resides in, Guess where I'm from! 😏
+- ⚡ Fun fact: I came from a country where Angkor Wat resides in! 😏
 
 ## Skills
 - Language: Python, C++, Java, TypeScript, SQL, HTML, CSS
