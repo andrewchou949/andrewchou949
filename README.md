@@ -1,13 +1,13 @@
 # Hi there, I'm Andrew! 👋
 
 ## About Me
-- 🌱 I’m currently learning: Machine Learning concepts
-- 👯 I’m looking to collaborate on: Backend, Frontend, Fullstack or Data related projects
-- 🤔 I’m open for: any employment opportunities, feel free to reach out for any opportunities 🤝
-- 💬 Ask me about: any of my projects, I'm more than happy to ellaborate more on them 😁
-- 📫 How to reach me: Preferrably via Email but LinkedIn is fine too 🤗
+- 🌱 I’m currently learning: Machine Learning concepts.
+- 👯 I’m looking to collaborate on: Backend, Frontend, Fullstack or Data related projects.
+- 🤔 I’m open for: any employment opportunities, feel free to reach out for any opportunities.
+- 💬 Ask me about: any of my projects, I'm more than happy to ellaborate more on them.
+- 📫 How to reach me: Preferrably via Email but LinkedIn is fine too.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I came from a country where Angkor Wat resides in! 😏
+- ⚡ Fun fact: I came from a country where Angkor Wat resides in!
 
 ## Skills
 - Language: Python (Preferred), C++, Java, TypeScript, SQL, HTML, CSS
