@@ -1,4 +1,4 @@
-# Hi there, I'm Andrew! 👋
+# Hi there, I'm Andrew Chou! 👋
 
 ## About Me
 - 🌱 I’m currently learning: Machine Learning concepts.
