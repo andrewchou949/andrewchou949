@@ -1,7 +1,7 @@
 # Hi there, I'm Andrew(Kimhour) Chou! 👋
 
 ## About Me
-- 🌱 I’m currently learning: Flask app, Machine Learning (pandas, sklearn) concepts.
+- 🌱 I’m currently learning: Tailwind CSS for Frontend Dev, Machine Learning (pandas, sklearn) concepts.
 - 👯 I’m looking to collaborate on: Backend, Frontend, Fullstack or Data related projects.
 - 🤔 I’m open for: any employment opportunities, feel free to reach out for any opportunities.
 - 💬 Ask me about: any of my projects, I'm more than happy to ellaborate more on them.
