@@ -1,4 +1,4 @@
-# Hi there, I'm Andrew(Kimhour) Chou! 👋
+# Hi there, I'm Andrew (Kimhour) Chou! 👋👋👋
 
 ## About Me
 - 🌱 I’m currently learning: Tailwind CSS for Frontend Dev, Machine Learning (pandas, sklearn) concepts.
